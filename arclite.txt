@@ -1,0 +1,33 @@
+﻿ArcLite default settings:
+═════════════════════════
+
+2useven10
+(http://forum.farmanager.com/viewtopic.php?p=135175#p135175)
+
+Или как правильно понимать настройки arclite? Подсказка для новичков.
+
+╔══════════════════════════ arclite ═══════════════════════════╗
+║ [x] Handle archive creation (Shift-F1)                       ║
+║ [x] Handle archive commands (Ctrl-PgDn, Shift-F2)            ║
+║ [x] Use own panel view mode                                  ║
+╟──────────────────────────────────────────────────────────────╢
+║ Open files matching masks: [x] Active [ Edit ]               ║
+║ ,*.hpk,*.ddi,*.x2,*.rkv,*.[lw]sz,*.h[ay]p,*.lim,*.sqz,*.chz  ║
+║ Exclude files matching masks: [ ] Active [ Edit ]            ║
+║                                                              ║
+║ [ ] Mask settings apply to Ctrl-PgDn                         ║
+║ [ Generate masks ] [ Default masks ]                         ║
+╟──────────────────────────────────────────────────────────────╢
+║ Enable archive formats: [ ] Active [ Edit ]                  ║
+║                                                              ║
+║ Disable archive formats: [ ] Active [ Edit ]                 ║
+║                                                              ║
+║ [ ] Format settings apply to Ctrl-PgDn                       ║
+╟──────────────────────────────────────────────────────────────╢
+║ [ 7z library info ]                                          ║
+╟──────────────────────────────────────────────────────────────╢
+║                      { OK } [ Cancel ]                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+Если отметить Enable archive formats - разрешены только перечисленные.
+Если нет - все (кроме явно запрещённых в Disable archive formats).
