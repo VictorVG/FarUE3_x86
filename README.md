@@ -1,7 +1,7 @@
-***FarUE3 x86***
+### FarUE3 x86 for Windows XP SP3 or newer.
 
 FarUE3 x86 edition based on latest Far3 x86, portable, installer, update,
-gURL & Wget silent installer addon.
+cURL & Wget included in to silent installer add-on.
 
 **Notes:**
 
