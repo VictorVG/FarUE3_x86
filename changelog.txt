@@ -15,6 +15,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5163 Git-50b4b348e
+
+1. Far b5163 Git-50b4b348e
+2. GitShell v1.3
+3. Plugin_GitShell.lua v1.2 (хоткеи AltShiftH, AltShiftN, AltShoftL, CtrlShiftC)
+4. Shell_GitGC.lua v1.1 - добавлен запрос ключей команды
+5. Обновил macro.txt (вроде никого не упустил)
+6. Рефакторинг. Обновление совместимо с b5149 и новее.
+
 b5162 Git-5f7f41896 05.03.2018 21:32:33 +0300
 
 1. Far b5162 Git-5f7f41896
