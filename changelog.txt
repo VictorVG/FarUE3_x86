@@ -15,11 +15,17 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5167 Git-0488ff058 13.03.2018 21:29:59 +0300
+
+1. Far b5167 Git-0488ff058
+2. Рефакторинг меню Git в UserMenu
+3. Рефакторинг. Обновление совместимо с b5149 и новее.
+
 b5163 Git-50b4b348e
 
 1. Far b5163 Git-50b4b348e
 2. GitShell v1.3
-3. Plugin_GitShell.lua v1.2 (хоткеи AltShiftH, AltShiftN, AltShoftL, CtrlShiftC)
+3. Plugin_GitShell.lua v1.2 (хоткеи AltShiftH, AltShiftN, AltShiftL, CtrlShiftC)
 4. Shell_GitGC.lua v1.1 - добавлен запрос ключей команды
 5. Обновил macro.txt (вроде никого не упустил)
 6. Рефакторинг. Обновление совместимо с b5149 и новее.
