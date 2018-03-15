@@ -15,6 +15,16 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5170 Git-9239d9379 15.03.2018 13:19:14 +0300
+
+1. Far b5170 Git-9239d9379
+2. Добавлена поддержка Asar
+3. Unicode Names List 10.0.0 Final
+4. UCharMap.lua v1.1: макрос "Unicode Charmap: show char on cursor" (CtrlP)
+5. cURL 7.59.0
+6. Update macro.txt
+7. Рефакторинг. Обновление совместимо с b5149 и новее.
+
 b5167 Git-0488ff058 13.03.2018 21:29:59 +0300
 
 1. Far b5167 Git-0488ff058
