@@ -16,12 +16,19 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5194 Git-ffcdd803b Upd1 22.04.2018 20:24:04 +0300
+
+1. FarAudioPlayer v3.31.0.4040
+3. Обновлены bass_aac, bass_fx, bassdsd, bassmidi, bassmix
+3. Рефакторинг. Обновление совместимо с b5171 и новее.
+
 b5194 Git-ffcdd803b 21.04.2018 23:07:37 +0300
 
 1. Far b5194 Git-ffcdd803b
 2. Rar v5.60.3.0
 3. Unrar.dll v5.60.3.2672
-4. Рефакторинг. Обновление совместимо с b5171 и новее.
+4. bass v2.4.13, bass_ac3 v2.4.0.6, bassflac v2.4.3, basswasapi v2.4.2
+5. Рефакторинг. Обновление совместимо с b5171 и новее.
 
 b5193 Git-c4d6dd33c 21.04.2018 17:46:37 +0300
 
