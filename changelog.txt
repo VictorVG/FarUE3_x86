@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5196 Git-b9d0b41e1 25.04.2018 13:54:56 +0300
+
+1. Far b5196 Git-b9d0b41e1
+2. Плагин FarSQLiteDB заменён на Poligon v0.53
+3. Rar v5.60.3.0 latest
+4. Обновлён default.farconfig
+5. Рефакторинг. Обновление совместимо с b5195 и новее.
+
 b5195 Git-0092e397f 24.04.2018 11:48:22 +0300
 
 1. Far b5195 Git-0092e397f
