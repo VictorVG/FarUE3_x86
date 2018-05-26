@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5223 Git-06bb93723 Upd1 26.05.2018 16:19:02 +0300
+
+1. FarAudioPlayer v3.38.0.4040
+2. Rar v5.60.4.0 latest
+3. Plugin_AudioPlayer.lua v1.01 (F1)
+4. Update macro.txt
+5  Update default.farconfig
+6. Рефакторинг. Обновление совместимо с b5195 и новее
+
 b5223 Git-06bb93723 25.05.2018 10:00:06 +0300
 
 1. Far b5223 Git-06bb93723
