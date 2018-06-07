@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5226 Git-d9794786a 07.06.2018 15:25:06 +0300
+
+1. Far b5226 Git-d9794786a
+2. IntChecker v2.7.1.0 Git-4a50a25
+3. Rar 5.60.5.0 latest
+4. DBEdit.lua изменены хоткеи AltShitF2 - AltShiftF4 и AltShitF3 - AltShiftF5
+5. поправлен macro.txt
+6. Рефакторинг. Обновление совместимо с b5195 и новее
+
 b5224 Git-71ca64ffe 31.05.2018 11:46:42 +0300
 
 1. Far b5224 Git-71ca64ffe
