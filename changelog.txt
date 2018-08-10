@@ -16,6 +16,20 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5255 Git-32d0abe54 10.08.2018 13:05:39 +0300
+
+1. Far b5255 Git-32d0abe54
+2. FarAudioPlayer v3.43.0.5055  (SVN r155 - corrected MinFarVersion)
+3. Рефакторинг. Обновление совместимо с b5226 и новее.
+
+b5254 Git-a09c326c5 07.08.2018 16:19:25 +0300
+
+1. Far b5254 Git-a09c326c5
+2. NetBox v2.4.5.531 Git-82b9ecd2 for Far3
+3. poligon v0.6.1
+4. Bookmark Manager v3.0.1
+5. Рефакторинг. Обновление совместимо с b5226 и новее.
+
 b5247 Git-36d768d95 25.07.2018 20:39:40 +0300
 
 1. Far b5247 Git-36d768d95
