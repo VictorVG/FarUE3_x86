@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5289 Git-1ed58ffab 21.10.2018 20:38:00 +0300
+
+1. Far b5289 Git-1ed58ffab
+2. b5289 - для Win10 включим "Use Virtual Terminal for rendering"
+3. Уточнение настроек и default.farconfig
+4. Утилиты перемещены в farue3-setup, farue3-addons удалён.
+5. Рефакторинг. Обновление совместимо с b5276 и новее.
+
 b5287 Git-4cdb38e0a 14.10.2018 20:19:39 +0300
 
 1. Far b5287 Git-4cdb38e0a
