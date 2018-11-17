@@ -96,6 +96,7 @@
   ║  S··················· │ AltH                                                             │ Plugin_IntChecker.lua                      │ Integrity Checker: show menu                    ║
   ║  S··················· │ AltHome                                                          │ Shell_SelectingEx.lua                      │ Переход на первый помеченный файл. © SimSU      ║
   ║  S··················· │ AltM                                                             │ Shell_RememberSelected.lua                 │ Сохранение/востановление пометки файлов. © SimSU║
+  ║  S··················· │ AltPgUp                                                          │ Shell_Go-Up.lua                            │ Go up in the File System                        ║
   ║  S··················· │ AltS                                                             │ Shell_SelectingEx.lua                      │ Расширенная работа с пометкой файлов. © SimSU   ║
   ║  S··················· │ AltShiftB                                                        │ Shell_Branch.lua                           │ DirTree branch                                  ║
   ║  S··················· │ AltShiftF6                                                       │ Shell_Symlink.lua                          │ Make symlink                                    ║
@@ -418,4 +419,4 @@
   ║  luacheck             │ Shell_LuaCheck.lua                               │ luacheck commandline                                                                                         ║
   ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
                                                                                                                                                                                                16.05.2018 20:01:29 +0300
-  16.11.2018 18:49:13 +0300
+  17.11.2018 05:18:30 +0300
