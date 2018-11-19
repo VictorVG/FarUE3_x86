@@ -16,6 +16,18 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5322 Git-f4a9bd78e 19.11.2018 18:15:15 +0300
+
+1. Far b5322 Git-f4a9bd78e
+2. Shell_Tarball.lua v1.0 (CtrlPgUp, CtrlPgDn, Enter)
+3. Обновлён macro.txt
+4. Рефакторинг. Обновление совместимо с b5300 и новее
+
+b5319 Git-4e82da1bf 18.11.2018 10:23:28 +0300
+
+1. Far b5319 Git-4e82da1bf
+2. Рефакторинг. Обновление совместимо с b5300 и новее
+
 b5318 Git-9ee2b569a 17.11.2018 17:27:57 +0300
 
 1. Far b5318 Git-9ee2b569a
