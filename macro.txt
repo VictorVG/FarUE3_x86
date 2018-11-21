@@ -25,7 +25,6 @@
   ║  ···················C │ CtrlNumLock                                                      │ Common_Calculator.lua                      │ Калькулятор буфера обмена. © SimSU              ║
   ║  ···················C │ CtrlO                                                            │ Common_CtrlO.lua                           │ CtrlO: view UserScreen from any area            ║
   ║  ···················C │ CtrlShiftV                                                       │ Common_ClipFix.lua                         │ вставка кривого юникода из буфера обмена        ║
-  ║  ···················C │ Enter NumEnter CtrlPgDn                                          │ Plugin_MultiArc.lua                        │ Open Rar use MultiArc                           ║
   ║  ···················C │ F11                                                              │ Plugin_PlugMenu.lua                        │ Advanced plugin menu                            ║
   ║  ···················C │ LAltShiftM                                                       │ Common_PostMacro.lua                       │ Post macro                                      ║
   ║  ···················C │ none                                                             │ Common_UpdCnf.lua                          │ Update location IgorZ scripts in to LuaMacro DB ║
@@ -51,7 +50,7 @@
   ║  S··Ts··············· │ ShiftF6                                                          │ Shell_Shift_F5F6F7.lua                     │ Переименование с сохранением расширения.        ║
   ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  S··Ts··············· │ ShiftF7                                                          │ Shell_Shift_F5F6F7.lua                     │ Создание папки на пассивной с именем как у      ║
-  ║  ║                    │  │                                                               │  │                                         │ файла под курсором. © SimSU                     ║
+  ║                       │                                                                  │                                            │ файла под курсором. © SimSU                     ║
   ║  S··T················ │ Alt                                                              │ Plugin_FarHint.lua                         │ FarHints: показать подсказку (клавиатура)       ║
   ║  S··T················ │ Alt Esc                                                          │ Plugin_FarHint.lua                         │ FarHints: скрыть подсказку (клавиатура)         ║
   ║  S··T················ │ AltShift= RAltShift=                                             │ Plugin_AdvCmpEx.lua                        │ AdvCmpEx                                        ║
@@ -144,21 +143,22 @@
   ║                       │                                                                  │                                            │ в буфере обмена. © SimSU                        ║
   ║  S··················· │ CtrlShiftSpace                                                   │ Plugin_LF_History.lua                      │ LuaFAR History: locate file                     ║
   ║  S··················· │ CtrlShiftV                                                       │ Common_ClipFix.lua                         │ исправление выделенного кривого юникода в       ║
-  ║                       │                                                                  │                                              комстроке                                       ║
+  ║                       │                                                                  │                                            │ комстроке                                       ║
   ║  S··················· │ CtrlShiftZ                                                       │ Plugin_DirList.lua                         │ NetBox recursive dir list                       ║
   ║  S··················· │ CtrlZ                                                            │ Shell_Description.lua                      │ Редактирование описания файла в редакторе.      ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  S··················· │ Del NumDel                                                       │ Shell_Del.lua                              │ Use Del to remove files                         ║
   ║  S··················· │ Divide                                                           │ Shell_SelectingEx.lua                      │ Пометка одинаковых файлов на обоих панелях.     ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  S··················· │ Enter CtrlPgDn                                                   │ Shell_Tarball.lua                          │ Open tarball                                    ║
   ║  S··················· │ CtrlPgUp                                                         │ Shell_Tarball.lua                          │ CdUp Tarball                                    ║
   ║  S··················· │ Enter NumEnter                                                   │ Common_Exec.lua                            │ Выполнение команды через меню пользователя или  ║
   ║                       │                                                                  │                                            │ Windows. © SimSU                                ║
   ║  S··················· │ Enter NumEnter                                                   │ Shell_RememberSelected.lua                 │ Запуск, смена папки, вход в архив c сохранением ║
   ║                       │                                                                  │                                            │ выделения файлов. © SimSU                       ║
+  ║  S··················· │ Enter NumEnter CtrlPgDn                                          │ Plugin_MultiArc.lua                        │ Open Rar use MultiArc                           ║
   ║  S··················· │ Enter NumEnter MsM1Click                                         │ Plugin_IntChecker.lua                      │ Integrity Checker: check integrity use          ║
-  ║                       │                                                                  │                                              checksumm                                       ║
+  ║                       │                                                                  │                                            │ checksumm                                       ║
   ║  S··················· │ LAltC                                                            │ Plugin_arclite.lua                         │ ArcLite: Main Menu                              ║
   ║  S··················· │ LAltLCtrlV                                                       │ Plugin_FileVer.lua                         │ File Version                                    ║
   ║  S··················· │ LAltR                                                            │ Plugin_FileCase.lua                        │ File Case                                       ║
@@ -196,7 +196,7 @@
   ║  ·······E············ │ AltDel                                                           │ Editor_Trimmer.lua                         │ Удаление конечных пробелов и символов табуляции ║
   ║                       │                                                                  │                                            │ и пустых строк. © SimSU                         ║
   ║  ·······E············ │ AltEnd AltShiftEnd                                               │ Editor_SmartHomeEnd.lua                    │ В конец строки или за последнюю букву с         ║
-  ║                       │                                                                  │                                              выделением вертикального блока. © SimSU         ║
+  ║                       │                                                                  │                                            │ выделением вертикального блока. © SimSU         ║
   ║  ·······E············ │ AltF3                                                            │ Plugin_lfsearch.lua                        │ LuaFAR Search: Editor Find                      ║
   ║  ·······E············ │ AltF5                                                            │ Editor_Print.moon                          │ print text from editor                          ║
   ║  ·······E············ │ AltHome AltShiftHome                                             │ Editor_SmartHomeEnd.lua                    │ В начало строки или на первую букву с выделением║
@@ -215,17 +215,17 @@
   ║  ·······E············ │ AltT                                                             │ Editor_Transpose.lua                       │ Транспонирование (строки превращаются в столбцы)║
   ║                       │                                                                  │                                            │ текста. © SimSU                                 ║
   ║  ·······E············ │ CtrlAltB                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - перейти в начало блока.      ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  ·······E············ │ CtrlAltBS                                                        │ Editor_BlockIndent.lua                     │ Indent right by tab size                        ║
   ║  ·······E············ │ CtrlAltBS                                                        │ Common_Notebook.lua                        │ Separator                                       ║
   ║  ·······E············ │ CtrlAltD                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - дублировать блок. © SimSU    ║
   ║  ·······E············ │ CtrlAltE                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - перейти в конец блока. © SimS║
   ║  ·······E············ │ CtrlAltR                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - восстановить позицию блока.  ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  ·······E············ │ CtrlAltR                                                         │ Editor_Remarks.lua                         │ Настройка комментирования помеченного блока.    ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  ·······E············ │ CtrlAltS                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - сохранить позицию блока.     ║
-  ║                       │                                                                  │                                              © SimSU                                         ║
+  ║                       │                                                                  │                                            │ © SimSU                                         ║
   ║  ·······E············ │ CtrlAltT                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - переключить тип блока        ║
   ║                       │                                                                  │                                            │ (строчный/вертикальный). © SimSU                ║
   ║  ·······E············ │ CtrlAltX                                                         │ Editor_SelectingEx.lua                     │ Выделенные блоки - обменять блок с буфером      ║
@@ -429,4 +429,4 @@
   ║  luacheck             │ Shell_LuaCheck.lua                               │ luacheck commandline                                                                                         ║
   ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 
-    19.11.2018 17:21:50 +0300
+  21.11.2018 18:06:16 +0300
