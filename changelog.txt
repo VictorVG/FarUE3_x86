@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5342 Git-2e59e79a1 12.12.2018 07:03:22 +0300
+
+1. Far b5342 Git-2e59e79a1
+2  Shell_DelEmptyDir.lua v1.0 (CtrlShiftD)
+3. LuaPicture Git-05fd9cc
+4. Обновлён macro.txt
+5. Рефакторинг. Обновление совместимо с b5340 и новее.
+
 b5342 Git-65a511bb1 11.12.2018 05:39:59 +0300
 
 1. Far b5342 Git-65a511bb1
