@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5355 Git-cd10b7f13 23.01.2019 02:15:34 +0300
+
+1. Far b5355 Git-cd10b7f13
+2. NetBox v2.4.5.531 Git-a7345ca4f - Security fix of CVE-2018-20684
+3. libgit2 v0.26.8 UNICODE
+4. Рефакторинг. Обновление совместимо с b5351 и новее
+
 b5355 Git-c0533f4a9 19.01.2019 05:49:50 +0300
 
 1. Far b5355 Git-c0533f4a9
