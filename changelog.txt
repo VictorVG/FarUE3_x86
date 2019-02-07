@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5361 Git-fb680aacc 07.02.2019 01:45:47 +0300
+
+1. Far b5361 Git-fb680aacc
+2. cURL v7.64.0
+3. curl-ca-bundle.crt (Wed Jan 23 04:12:09 2019 GMT)
+4. Fix Git-9c5b31ab0 (x86)
+5. Fix Git-5022e001c (x64)
+6. Рефакторинг. Обновление совместимо с b5351 и новее.
+
 b5357 Git-f4062f362 05.02.2019 17:35:07 +0300
 
 1. Far b5357 Git-f4062f362
