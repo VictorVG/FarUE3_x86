@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5362 Git-5284dd4db 12.02.2019 04:18:59 +0300
+
+1. Far b5362 Git-5284dd4db
+2. Опечатка в меню Git
+3. Plugin_GitShell.lua v1.3
+4. Рефакторинг. Обновление требует b5362 и новее.
+
 b5361 Git-add51d6e7 10.02.2019 19:26:46 +0300
 
 1. Far b5361 Git-add51d6e7
