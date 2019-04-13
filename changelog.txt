@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5383 Git-4715e7aee 13.04.2019 18:59:57 +0300
+
+1. Far b5383 Git-4715e7aee
+2. IntChecker v2.7.2 Git-531298f48
+3. xdoc2txt v2.18
+4. Fix Editor_MouseSelect.lua
+5. Рефакторинг. Обновление требует b5378 и новее.
+
 b5383 Git-f6b91726a 06.04.2019 14:23:34 +0300
 
 1. Far b5383 Git-f6b91726a
