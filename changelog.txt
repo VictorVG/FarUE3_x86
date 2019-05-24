@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5400 Git-6dac75e8b 24.05.2019 07:05:21 +0300
+
+1. Far b5400 Git-6dac75e8b
+2. IntChecker v2.7.2 Git-9586a7116
+3. cURL v7.65.0
+4. InnoUnp v0.49
+5. Рефакторинг. Обновление требует b5397 и новее.
+
 b5398 Git-4a5a2799d 16.05.2019 16:27:08 +0300
 
 1. Far b5398 Git-4a5a2799d
