@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5401 Git-0083e888d 26.05.2019 20:15:08 +0300
+
+1. Far b5401 Git-0083e888d
+2. IntChecker v2.7.2 Git-01d888410
+3. NetBox v2.4.5.531 Git-b3453e3f1
+4. xdoc2txt v2.19 (I updated VERSION_INFO structure up to current version)
+5. Рефакторинг. Обновление требует b5399 и новее.
+
 b5400 Git-6dac75e8b 24.05.2019 07:05:21 +0300
 
 1. Far b5400 Git-6dac75e8b
