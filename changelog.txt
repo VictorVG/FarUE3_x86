@@ -16,6 +16,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5440 Git-e7e3e19d0 31.07.2019 19:29:06 +0300
+
+1. Far b5440 Git-e7e3e19d0
+2. VisualCompare.lua v1.7
+3. Рефакторинг. Обновление требует b5433 и новее.
+
 b5437 Git-dbce11c87 30.07.2019 17:13:36 +0300
 
 1. Far b5437 Git-dbce11c87
