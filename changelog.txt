@@ -16,6 +16,20 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5452 Git-7732c1dea 21.08.2019 17:46:13 +0300
+
+1. Far b5452 Git-7732c1dea
+2. AudioPlayer v3.43.0.5055 (SVN r189) and additional BASS-decoders
+3. HashCalc v3.3.4.4040 (SVN r189)
+4. ImageView v3.46.8.4362 (SVN r189)
+5. MediaInfo v3.13.0.4040 (SVN r189)
+6. FIX: c0BOM.lua переименован в ./Profile/Macros/scripts/Shell_c0BOM.lua
+7. Shell_CustomSortByAttributes.lua
+8. Shell_CustomSortByName.lua
+9. Fix: Plugin_FarHint.lua
+10. Обновление default.farconfig
+11. Рефакторинг. Обновление требует b5447 и новее.
+
 b5452 Git-89cfa7b0e 19.08.2019 12:01:23 +0300
 
 1. Far b5452 Git-89cfa7b0e
