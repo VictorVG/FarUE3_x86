@@ -16,9 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5456 Git-34eb6aa01 27.08.2019 14:07:15 +0300
+
+1. Far b5456 Git-34eb6aa01
+2. Shell_CustomSortByAttributes.lua v1.8
+3. Рефакторинг. Обновление требует b5454 и новее.
+
 b5455 Git-d9574f095 26.08.2019 03:59:14 +0300
 
-1. Farb5455 Git-d9574f095
+1. Far b5455 Git-d9574f095
 2. LuaCheck v0.23.0
 3. FuncLib.lua v1.4
 4. Shell_CustomSortByAttributes.lua v1.7
