@@ -16,11 +16,19 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5465 Git-b8e7088dc 04.09.2019 18:07:15 +0300
+
+1. Far b5465 Git-b8e7088dc
+2. ImageView v3.46.9.4362 DEV (SVN r190)
+3. LuaFAR Search v3.43.6
+3. Рефакторинг runfar, recover, rfar, комстрока отдаётся Far "as-is".
+4. Рефакторинг. Обновление требует b5454 и новее.
+
 b5462 Git-018efd475 02.09.2019 12:36:12 +0300
 
 1. Far b5462 Git-018efd475
 2. BugFix: RunAsAdmininstrator
-3. Enchanced: параметры runfar.cmd - APanelPath PPanelPath FarCommandLineKey
+3. Enchanced: параметры runfar.cmd - APanelPath PPanelPath or FarCommandLineKey
 4. Рефакторинг. Обновление требует b5454 и новее.
 
 b5459 Git-edb51d872 31.08.2019 10:54:59 +0300
