@@ -16,6 +16,22 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5470 Git-384e51ec4 09.09.2019 15:44:07 +0300
+
+1. Far b5470 Git-384e51ec4
+2. BugFix RESearch v8.6.7 (DrKnS)
+3. BugFix LuaManager v5.0.3 (Shmuel, VictorVG)
+4. BugFix Editor_MouseSelect.lua (VictorVG)
+5. Обновление Editor_MacroComplete.lua, Editor_SmartHomeEnd.lua (20190908)
+6. Shell_CustomSortByAttributes.lua v2.0
+7. BugFix rfar.cmd, recover.cmd (default startup dir, bug report skipik)
+8. Рефакторинг. Обновление требует b5454 и новее.
+
+b5467 Git-6fdf3276d 06.09.2019 19:24:56 +0300
+
+1. Far b5467 Git-6fdf3276d
+2. Рефакторинг. Обновление требует b5454 и новее.
+
 b5467 Git-4c0601c3e 05.09.2019 18:13:47 +0300
 
 1. Far b5467 Git-4c0601c3e
