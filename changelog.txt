@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5472 Git-78bd82573
+
+1. Far b5472 Git-78bd82573
+2. cURL 7.66.0
+3. curl-ca-bundle.crt (Wed Aug 28 03:12:10 2019 GMT)
+4. LuaManager v5.0.4 fixed (Shmuel)
+5. Рефакторинг. Обновление требует b5454 и новее.
+
 b5471 Git-8b0831476 09.09.2019 22:10:19 +0300
 
 1. Far b5471 Git-8b0831476
