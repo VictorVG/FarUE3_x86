@@ -16,7 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
-b5472 Git-78bd82573
+b5473 Git-558ef6a3b 16.09.2019 04:34:57 +0300
+
+1. Far b5473 Git-558ef6a3b
+2. DNSDataView v1.56
+3. UserMenu новая команда DNS record view (F2 -> N -> V)
+4. Рефакторинг. Обновление требует b5454 и новее.
+
+b5472 Git-78bd82573 12.09.2019 10:05:18 +0300
 
 1. Far b5472 Git-78bd82573
 2. cURL 7.66.0
