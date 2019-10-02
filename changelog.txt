@@ -16,6 +16,16 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5478 Git-4cb2505d7 02.10.2019 12:57:11 +0300
+
+1. IntChecker v2.7.3.5400 Git-016c39ce1
+2. Polygon v1.2.1.4625
+3. TorrentInfo v3.9.1.4040 (SVN 193)
+4. Rar v5.80.2.0 latest
+5. IntChecker.Run.lua v1.5.0
+6. Команды Diff и Patch в UserMenu (F2 - T - D и F2 - T - P)
+7. Рефакторинг. Обновление требует b5477 и новее.
+
 b5478 Git-4cb2505d7 26.09.2019 14:02:26 +0300
 
 1. Far b5478 Git-4cb2505d7
