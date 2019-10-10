@@ -16,15 +16,19 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
-b5478 Git-4cb2505d7 02.10.2019 12:57:11 +0300
+b5485 Git-87b29e8d8 10.10.2019 18:24:28 +0300
 
-1. IntChecker v2.7.3.5400 Git-016c39ce1
-2. Polygon v1.2.1.4625
-3. TorrentInfo v3.9.1.4040 (SVN 193)
-4. Rar v5.80.2.0 latest
-5. IntChecker.Run.lua v1.5.0
-6. Команды Diff и Patch в UserMenu (F2 - T - D и F2 - T - P)
-7. Рефакторинг. Обновление требует b5477 и новее.
+1. Far b5485 Git-87b29e8d8
+2. AudioPlayer v3.44.2.5055
+3. IntChecker v2.7.3 Git-00b098e9c
+4. Polygon v1.2.1.4625
+5. TorrentInfo v3.9.1.4040 (SVN 193)
+6. Rar v5.80.2.0 latest
+7. SQLite 3.30.0
+8. USBDeview v2.80
+9. IntChecker.Run.lua v1.7.0
+10. Команды Diff и Patch в UserMenu (F2 - T - D и F2 - T - P)
+11. Рефакторинг. Обновление требует b5477 и новее.
 
 b5478 Git-4cb2505d7 26.09.2019 14:02:26 +0300
 
