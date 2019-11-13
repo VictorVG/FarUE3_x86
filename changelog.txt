@@ -16,6 +16,39 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5508 Git-75c093f50 13.11.2019 17:43:03 +0300
+
+1. Far b5508 Git-75c093f50
+2. Audio Player v3.44.2.5055 (SVN r201)
+3. HashCalc v3.4.0.4040
+4. IntChecker v2.8.0.5400 Git-f3fc2153c
+5. NTFSFile v5.5.4.3000
+6. LuaCheck v1.4.2
+7. LuaManager v5.0.5
+8. IntChecker.Run.lua v1.9.0
+9. 7-Zip ZS codecs 19.00 ZS v1.4.4 R1
+10. cURL v7.67.0
+11. Rar v5.80.3.0 latest
+12. USBDeview v2.81
+13. Рефакторинг. Обновление требует b5508 и новее.
+
+b5500 Git-18f538550 29.10.2019 03:34:47 +0300
+
+1. Far b5500 Git-18f538550
+2. Audio Player v3.44.2.5055 (SVN r198)
+3. LuaFILE Search v3.43.7
+4. Rar v5.80.3.0 latest
+5. UnRAR.dll v5.80.3.3220
+6. SQLite 3.30.1.0
+7. Рефакторинг. Обновление требует b5477 и новее.
+
+b5486 Git-b2eac1455 13.10.2019 06:25:48 +0300
+
+1. Far b5486 Git-b2eac1455
+2. AudioPlayer v3.44.2.5055 (SVN r197)
+3. IntChecker.Run.lua v1.8.0
+4. Рефакторинг. Обновление требует b5477 и новее.
+
 b5485 Git-87b29e8d8 10.10.2019 18:24:28 +0300
 
 1. Far b5485 Git-87b29e8d8
