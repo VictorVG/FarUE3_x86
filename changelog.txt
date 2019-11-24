@@ -16,6 +16,28 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5512 Git-ebff01d78 24.11.2019 05:59:48 +0300
+
+1. Far b5512 Git-ebff01d78
+2. AudioPlayer v3.44.3.5055 (SVN r206)
+3. HashCalc v3.5.0.4040
+4. Rar 5.80.4.0 latest
+5. Unrar.dll v5.80.4.3248
+6. LuaManager v5.0.6
+7. Rebind удалён
+8. Обновление default.farconfig
+9. Рефакторинг. Обновление требует b5510 и новее
+
+b5509 Git-ceacfe989 17.11.2019 16:20:45 +0300
+
+1. Far b5509 Git-ceacfe989
+2. IntChecker v2.8.0 Git-fab48b3a4
+3. LuaCheck v1.4.3
+4. Rar 5.80.3.0 latest
+5. Автозапуск Rebind 1.1 отключён поскольку вызывает AV в LuaMacro
+6. Fix commit Git 3a0c5e58f
+7. Рефакторинг. Обновление требует b5508 и новее
+
 b5508 Git-75c093f50 13.11.2019 17:43:03 +0300
 
 1. Far b5508 Git-75c093f50
