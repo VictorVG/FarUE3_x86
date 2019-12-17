@@ -16,6 +16,45 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5528 Git-99c8775f9 18.12.2019 02:29:13 +0300
+
+1. Far b5528 Git-99c8775f9
+2. HashCalc v3.5.1.4040
+3. NTFS File Information v5.5.6.3000
+4. Удалён плагин FarHints - зависание при чтении хардлинков на внешних HDD
+5. [ESC] - уточнение
+6. Rar 5.80 Final
+7. GNU bc library v1.0.7 для математических расчётов с большими числами:
+
+   __add(x,y), __div(x,y), __eq(x,y), __le(x,y). __lt(x,y), __mod(x,y),
+   __mul(x,y), __pow(x,y), __sub(x,y), __tostring(x), __unm(x), abs(x),
+   add(x,y), compare(x,y), digits([n]), div(x,y), isneg(x), iszero(x),
+   mod(x,y), mul(x,y), neg(x), new(x), pow(x,y), powmod(x,y,m),
+   quotrem(x,y), sqrt(x), sub(x,y), tonumber(x), tostring(x),
+   trunc(x,[n]), version
+
+   Пример - функция вычисления факториала большего чем 170! fact(x):
+
+     local bc = require "bc"
+     local function fact(k)
+     local f = bc.new(1);
+     for j = 1, k do f = f * j end
+     return f
+     end;
+     far.Show(bc.version.."\n\n"..bc.tostring(fact(mf.prompt(nil,nil,8))));
+8. Bookmark Manager v3.0.3
+9. DBEdit v2.1.4
+10. Рефакторинг. Обновление требует b5510 и новее.
+
+b5513 Git-26ba0a5b1 28.11.2019 18:06:19 +0300
+
+1. Far b5513 Git-26ba0a5b1
+2. Common_Stub.lua
+3. GitShell - AltShiftC (b5513)
+4. Rar 5.80.4.0 latest.
+5. macro.txt
+6. Рефакторинг. Обновление требует b5510 и новее.
+
 b5512 Git-ebff01d78 24.11.2019 05:59:48 +0300
 
 1. Far b5512 Git-ebff01d78
@@ -26,7 +65,7 @@ b5512 Git-ebff01d78 24.11.2019 05:59:48 +0300
 6. LuaManager v5.0.6
 7. Rebind удалён
 8. Обновление default.farconfig
-9. Рефакторинг. Обновление требует b5510 и новее
+9. Рефакторинг. Обновление требует b5510 и новее.
 
 b5509 Git-ceacfe989 17.11.2019 16:20:45 +0300
 

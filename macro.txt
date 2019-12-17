@@ -52,15 +52,9 @@
   ║                       │                                                                  │                                            │ © SimSU                                        ║
   ║  S··Ts··············· │ ShiftF7                                                          │ Shell_Shift_F5F6F7.lua                     │ Создание папки на пассивной с именем как у     ║
   ║                       │                                                                  │                                            │ файла под курсором. © SimSU                    ║
-  ║  S··T················ │ Alt                                                              │ Plugin_FarHint.lua                         │ FarHints: показать подсказку (клавиатура)      ║
-  ║  S··T················ │ Alt Esc Apps MsRClick                                            │ Plugin_FarHint.lua                         │ FarHints: скрыть подсказку (клавиатура)        ║
   ║  S··T················ │ AltShift= RAltShift=                                             │ Plugin_AdvCmpEx.lua                        │ AdvCmpEx                                       ║
   ║  S··T················ │ LAltShiftS                                                       │ Plugin_SizeManager.lua                     │ Size Manager: run plugin                       ║
   ║  S··T················ │ MsRClick                                                         │ Common_RightClickAlt.lua                   │ EMenu: by RClick and hold                      ║
-  ║  S··T················ │ MsWheelDown                                                      │ Plugin_FarHint.lua                         │ FarHints: уменьшить эскиз (колесо мыши)        ║
-  ║  S··T················ │ MsWheelUp                                                        │ Plugin_FarHint.lua                         │ FarHints: увеличить эскиз (колесо мыши)        ║
-  ║  S··T················ │ RAltDown                                                         │ Plugin_FarHint.lua                         │ FarHints: уменьшить эскиз (клавиатура)         ║
-  ║  S··T················ │ RAltUp                                                           │ Plugin_FarHint.lua                         │ FarHints: увеличить эскиз (клавиатура)         ║
   ║  S···s··············· │ CtrlAltM                                                         │ Plugin_MeediaInfo.lua                      │ Get MEdiaInfo                                  ║
   ║  S···s··············· │ ShiftDivide                                                      │ SS_FuzzyCompare.lua                        │ Select files with the same names without       ║
   ║                       │                                                                  │                                            │ numeric prefix and extension                   ║
@@ -105,6 +99,7 @@
   ║  S··················· │ AltPgUp                                                          │ Shell_Go-Up.lua                            │ Go up in the File System                       ║
   ║  S··················· │ AltS                                                             │ Shell_SelectingEx.lua                      │ Расширенная работа с пометкой файлов. © SimSU  ║
   ║  S··················· │ AltShiftB                                                        │ Shell_Branch.lua                           │ DirTree branch                                 ║
+  ║  S··················· │ AltShiftC                                                        │ Plugin_GitShell.lua                        │ GitShell commit tools                          ║
   ║  S··················· │ AltShiftF6                                                       │ Shell_Symlink.lua                          │ Make symlink                                   ║
   ║  S··················· │ AltShiftG                                                        │ Shell_GitGC.lua                            │ Cleanup unnecessary files and optimize the     ║
   ║                       │                                                                  │                                            │ local repository                               ║
@@ -140,7 +135,6 @@
   ║                       │                                                                  │                                            │ выделения файлов. © SimSU                      ║
   ║  S··················· │ CtrlS                                                            │ Shell_CtrlS.lua                            │ Use Ctrl-S for quick search like mc.           ║
   ║  S··················· │ CtrlShiftA                                                       │ Shell_CDup.lua                             │ Menu with list of parent directories (CD up)   ║
-  ║  S··················· │ CtrlShiftC                                                       │ Plugin_GitShell.lua                        │ GitShell commit tools                          ║
   ║  S··················· │ CtrlShiftD                                                       │ Shell_DelEmptyDir.lua                      │ Delete empty folder                            ║
   ║  S··················· │ CtrlShiftE                                                       │ Shell_SelectingEx.lua                      │ Копирование имён помеченных файлов в редактор. ║
   ║                       │                                                                  │                                            │ © SimSU                                        ║
@@ -476,4 +470,4 @@
   ║  luacheck       │ Shell_LuaCheck.lua                         │ luacheck commandline                                                                                                    ║
   ║                                                                                                                                                                                        ║
   ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-  23.11.2019 00:18:41 +0300
+  18.12.2019 02:42:53 +0300
