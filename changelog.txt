@@ -16,6 +16,21 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5545 Git-934546802 05.01.2020 15:19:33 +0300
+
+1. Far b5545 Git-934546802
+2. IntChecker v2.8.0 Git-b9da05471
+3. DNSDataView v1.60
+4. IPNetInfo v1.90
+5. USBDeview v2.85
+6. FarMenu fix typo.
+7. Рефакторинг. Обновление требует b5535 и новее.
+
+b5538 Git-c0ff93ff6 27.12.2019 19:11:31 +0300
+
+1. Far b5538 Git-c0ff93ff6
+2. Рефакторинг. Обновление требует b5535 и новее.
+
 b5535 Git-a12d798e8 25.12.2019 04:16:57 +0300
 
 1. Far b5535 Git-a12d798e8
