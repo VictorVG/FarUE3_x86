@@ -16,6 +16,27 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5570 Git-834a1af8e 12.03.2020 04:41:04 +0300
+
+1. Far b5570 Git-834a1af8e
+2. IntChecker v2.8.0 Git-e09c8fc22
+3. LuaFAR for Editor v3.9.1
+4. LuaFAR History v3.10.8
+5. LuaFAR Search v3.44.0
+6. LUA Format Block 20200312-1
+7. LUA File List 20200312-1
+8. NetBox v2.4.5.531 Git-3fb1fe1ca
+9. polygon v1.3.1
+10. RESearch v8.70
+11. IntChecker.Run.lua v2.0
+12. 7-Zip 20.00 Alpha
+13. cURL 7.69.1
+14. Rar 5.90b3 latest
+15. SQLite 3.31.1 (extensions: COLUMN_METADATA, DBSTAT_VTAB, FTS3, FTS4, FTS5,
+                 GEOPOLY, JSON1, MEMORY_MANAGEMENT, RBU, RTREE, SNAPSHOT,
+                 SORTER_REFERENCES, STMTVTAB, UNLOCK_NOTIFY)
+16. Рефакторинг. Обновление требует b5569 и новее.
+
 b5548 Git-3c2984a4a 24.01.2020 21:40:58 +0300
 
 1. Far b5548 Git-3c2984a4a
