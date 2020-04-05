@@ -16,9 +16,9 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
-b5579 Git-bbd33d13b 05.04.2020 23:38:01 +0300
+b5579 Git-32049a888 05.04.2020 23:38:01 +0300
 
-1. Far b5579 Git-bbd33d13b
+1. Far b5579 Git-32049a888
 2. FileUnlock 3.6.0.4040 SVN r220
 3. Обновление скриптов
 4. Обновление macro.txt
