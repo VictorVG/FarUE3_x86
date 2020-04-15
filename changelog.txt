@@ -16,9 +16,28 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5586 Git-0d3777728 15.04.2020 17:02:10 +0300
+
+1. Far b5586 Git-0d3777728
+2. FarColorer v1.3.3
+3. LuaFAR History v3.10.9.4425
+4. MultiArc v1.75.200
+5. NetBox 2.4.5.534
+6. 7-Zip ZS Codecs v19.00 ZS v1.4.4 R2
+7. NTFSFile 5.5.8 добавлен ru.lng
+8. Fix: MultiArc и Inno Setup 6
+9. Обновление default.farconfig
+10. Far:сonfig для Inno Setup 6 изменим настройки на:
+    System.PluginMaxReadData = 768000 (0x0BB800) и
+    PluginConfirmations.OpenFilePlugin = 1 (0x01)
+11. MultiArc в custom_user.ini добавлена поддержка Inno Setup 6
+12. [ESC] уточнение конфигов
+13. Уточнение Mini FAQ в readme.txt.
+14. Рефакторинг. Обновление требует b5586 и новее.
+
 b5580 Git-b1d77e792 10.04.2020 16:40:25 +0300
 
-1. b5580 Git-b1d77e792
+1. Far b5580 Git-b1d77e792
 2. FarColorer 1.3.0
 3. IntChecker 2.80 Git-e2a068a
 4. Рефакторинг. Обновление требует b5580 и новее.
