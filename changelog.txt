@@ -3,8 +3,8 @@
 Far Manager UE3 (Far UE3, FarUE3)
 
 © 1996—2000 Eugene Roshal
-© 2000—2019 Far Group
-© 1996-2019 VictorVG @ VikSoft.Ru
+© 2000—2020 Far Group
+© 1996-2020 VictorVG @ VikSoft.Ru
 
 Общие замечания:
 
@@ -15,6 +15,38 @@ Far Manager UE3 (Far UE3, FarUE3)
 3) Опечатки в тексте changelog.txt могут быть исправлены без записи "Fix typo".
 
 История версий:
+
+b5588 Git-45360e855 19.04.2020 15:40:37 +0300
+
+1. Far b5588 Git-45360e855
+2. FarColorer v1.3.6
+3. ArcLite обновление плагинов для 7-Zip:
+    Asar v1.2
+    ExFAT7z v1.1
+4. Переименование каталога плагина ./plugins/advcmpexw/ в ./plugins/advcmpex/
+5. FarAudioPlayer fix:
+    BASS v2.4.15,
+    BASSMix v2.4.10
+    BASSWASAPI v2.4.3
+6. Обновление скриптов:
+    Common_CtrlAltMenuDisk.lua v4.1.2
+    Common_EnvManager.lua v1.4.1
+    Editor_ColorerRefresh.lua v1.2
+    Editor_ColorerTypeList.lua v1.3
+    Editor_OpenScript.lua
+    FunLib v1.4.1
+    Plugin_VisualCompare.lua v1.8.3
+    Shell_CustomSortByAttributes.lua v2.0
+    Shell_CustomSortByName.lua v1.1
+    Shell_SelBOM.lua v1.3
+   Рефакторинг скриптов:
+    Plugin_LF_History.lua
+    Shell_Esc.lua
+    Shell_RCtrlUpDown.lua
+   Bug Fix:
+    Editor_LuaCheck.lua v1.4.4
+7. Рефакторинг update.cmd - скрипты для х86 и в х64 разные!
+8. Рефакторинг. Обновление требует b5588 и новее.
 
 b5586 Git-0d3777728 15.04.2020 17:02:10 +0300
 
