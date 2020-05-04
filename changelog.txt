@@ -16,6 +16,16 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5594 Git-f253506bb 04.05.2020 08:10:02 +0300
+
+1. Far b5594 Git-f253506bb
+2. AudioPlayer v3.44.6.5055 r228
+3. FarColorer v1.3.9
+4. PortaDev v3.13.0.4040 SVN r227
+5. Удалён MultiArc\Formats\FreeArc.fmt - вызывает Access Violation при ExitFAR.
+6. Командные строки FreeArc добавлены в .\MultiArc\Formats\custom_user.ini .
+7. Рефакторинг. Обновление требует b5589 и новее.
+
 b5591 Git-239b11f49 27.04.2020 00:52:39 +0300
 
 1. Far b5591 Git-239b11f49
