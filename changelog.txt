@@ -16,6 +16,17 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5599 Git-dcc8efcd2 16.05.2020 23:24:41 +0300
+
+1. Far b5599 Git-dcc8efcd2
+2. AudioPlayer v3.44.8.5055
+3. FarColorer v1.3.11
+4. NTFSFile v5.5.8.3000 (OpenSSL 1.1.1g)
+5. LuaManager.5.1.0 FIX by Shmuel Zeigerman
+6. Требуется OpenSSL v1.1.1.7 (OpenSSL v1.1.1g)
+7. Рефакторинг. Обновление требует b5589 и новее.
+
+
 b5594 Git-f253506bb 04.05.2020 08:10:02 +0300
 
 1. Far b5594 Git-f253506bb
