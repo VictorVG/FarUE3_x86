@@ -16,6 +16,18 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5610 Git-66b4ab2cc 27.05.2020 20:57:29 +0300
+
+1. Far b5610 Git-66b4ab2cc
+2. ESC v2.91.4040 (GCC 9.2.0, update and remove duplicates in to config)
+3. SQLite 3.32.1 (extensions: COLUMN_METADATA, DBSTAT_VTAB, FTS3, FTS4, FTS5,
+                 GEOPOLY, JSON1, MEMORY_MANAGEMENT, RBU, RTREE, SNAPSHOT,
+                 SORTER_REFERENCES, STMTVTAB, UNLOCK_NOTIFY)
+4. BookmarkManager v3.0.5
+5. LuaPicture Git-4bf92286a
+6. Editor_OpenScript.lua update
+7. Рефакторинг. Обновление требует b5601 и новее.
+
 b5604 Git-1a2c4b5a6 20.05.2020 13:03:06 +0300
 
 1. Far b5604 Git-1a2c4b5a6
