@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5623 Git-bb5cfdb7a 19.06.2020 12:52:38 +0300
+
+1. Far b5623 Git-bb5cfdb7a
+2. SQLite v3.32.3 (shell and DLL) (extensions: COLUMN_METADATA, DBSTAT_VTAB,
+                 FTS3, FTS4, FTS5, GEOPOLY, JSON1, MEMORY_MANAGEMENT, RBU,
+                 RTREE, SNAPSHOT, SORTER_REFERENCES, STMTVTAB, UNLOCK_NOTIFY)
+3. Rar 5.91.1.0 latest
+4. Рефакторинг. Обновление требует b5601 и новее.
+
 b5622 Git-770df742a 18.06.2020 14:17:55 +0300
 
 1. Far b5622 Git-770df742a
