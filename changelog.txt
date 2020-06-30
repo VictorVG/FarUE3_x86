@@ -16,6 +16,22 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5629 Git-83ecf6dd6 30.06.2020 14:45:12 +0300
+
+1. Far b5629 Git-83ecf6dd6
+2. cURL v7.71.0
+3. Rar v5.91.0.0
+4. UnRAR.dll v5.91.100.3470
+5. curl-ca-bundle.crt от Wed Jun 24 03:12:10 2020 GMT
+6. Рефакторинг. Обновление требует b5624 и новее.
+
+b5628 Git-f541a4fe2 27.06.2020 23:09:57 +0300
+
+1. Far b5628 Git-f541a4fe2
+2. FarColorer 1.3.15
+3. Rar 5.91.1.0 latest
+4. Рефакторинг. Обновление требует b5624 и новее.
+
 b5625 Git-d1dda76a0 23.06.2020 04:32:21 +0300
 
 1. Far b5625 Git-d1dda76a0
