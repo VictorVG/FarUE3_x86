@@ -16,6 +16,11 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5661 Git-84617f946 01.09.2020 06:49:17 +0300
+
+1. Far b5661 Git-84617f946
+2. Рефакторинг. Обновление требует b5657 и новее.
+
 b5659 Git-ed5119af8 31.08.2020 13:38:46 +0300
 
 1. Far b5659 Git-ed5119af8
@@ -39,7 +44,9 @@ b5655 Git-ece891f7a 21.08.2020 18:37:17 +0300
 
 1. Far b5655 Git-ece891f7a
 2. NetBox патч mehfk и w17
-3. SQLite 3.33.0
+3. SQLite 3.33.0 (shell and DLL) (extensions: COLUMN_METADATA, DBSTAT_VTAB,
+                 FTS3, FTS4, FTS5, GEOPOLY, JSON1, MEMORY_MANAGEMENT, RBU,
+                 RTREE, SNAPSHOT, SORTER_REFERENCES, STMTVTAB, UNLOCK_NOTIFY)
 4. Удалён не нужный Shell_SortDir.lua
 5. Plugin_VisualCompare.lua v1.8.7
 6. Shell_CustomSortByAttributes.lua v2.0.0.1
