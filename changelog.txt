@@ -16,9 +16,18 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5709 Git-7e1c83957 28.11.2020 13:53:48 +0300
+
+1. Far b5709 Git-7e1c83957
+2. MultiArc v1.75 b200 Git-7e1c83957
+3. NetBox v2.4.5.534 Git-0cd927bbb
+4. FarPortaDev v3.14.1.4040
+5. Rar v6.0b2 Latest
+6. Рефакторинг. Обновление требует b5700 и новее.
+
 b5709 Git-689c635c5 24.11.2020 00:07:12 +0300
 
-1. Far b5709 Git-689c635c5
+Git-689c635c5
 2. NetBox v2.4.5.534 Git-e9ffefb23
 3. Rar v6.0b2 Latest
 4. UnRAR.DLL v6.0.2.3610
