@@ -16,6 +16,20 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5716 Git-cd0602f02 13.12.2020 20:56:49 +0300
+
+1. Far b5716 Git-cd0602f02
+2. SVN r255/r256 AudioPlayer, DiskMenu, HashCalc, HexItor, HunSpell, ImageView,
+   JClassInfo, PEAnalyzer, PortaDev, TextConv, TorrentInfo
+3. NTFSFile: OpenSSL 1.1.1i, ru.lng - полный перевод, SVN r255/r256
+4. MediaInfo v3.14
+5. AdvCmpEx v3.0.2927.37
+6. cURL 7.74.0
+7. SQLite 3.34.0
+8. Rar v6.0
+9. UnRAR.dll 6.0
+10. Рефакторинг. Обновление требует b5710 и новее.
+
 b5710 Git-888a041fb 02.12.2020 08:15:05 +0300
 
 1. Far b5710 Git-888a041fb
