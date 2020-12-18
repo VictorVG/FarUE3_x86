@@ -16,6 +16,11 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5718 Git-0dc44b022 Upd 2 19.12.2020 00:29:19 +0300
+
+1. AudioPlayer 3.44.9
+2. MediaInfo 3.15
+
 b5718 Git-0dc44b022 Upd 1 18.12.2020 22:23:53 +0300
 
 1. InnoUnp v0.50 by Ariman
@@ -23,6 +28,7 @@ b5718 Git-0dc44b022 Upd 1 18.12.2020 22:23:53 +0300
 b5718 Git-0dc44b022 18.12.2020 17:41:31 +0300
 
 1. Far b5718 Git-0dc44b022
+2. AudioPlayer 3.44.9
 2. UnInstall 1.10.17 + косметика
 3. InnoUnp 1.61.2
 4. Рефакторинг. Обновление требует b5716 и новее.
