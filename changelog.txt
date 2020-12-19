@@ -16,6 +16,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5718 Git-0dc44b022 Upd 3 19.12.2020 20:16:56 +0300
+
+1. Some clarifications.
+2. Delete unused.
+3. Refactoring. The update requires b5716 and newer.
+
 b5718 Git-0dc44b022 Upd 2 19.12.2020 00:29:19 +0300
 
 1. AudioPlayer 3.44.9
