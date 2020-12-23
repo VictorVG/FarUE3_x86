@@ -16,6 +16,16 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5718 Git-0bd8484fd 22.12.2020 13:10:03 +0300
+
+1. Far b5718 Git-0bd8484fd
+2. Hunspell 3.5.0 (fix typo)
+2. PEAnalyzer 3.6.3
+4. UnInstall 1.10.20 (.hlf fix)
+5. JClassInfo 3.10 SVN r265
+6. MediaInfo 3.15 SVN r265
+7. Рефакторинг. Обновление требует b5716 и новее.
+
 b5718 Git-0dc44b022 Upd 3 19.12.2020 20:16:56 +0300
 
 1. Some clarifications.
