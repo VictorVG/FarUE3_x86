@@ -16,12 +16,32 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
-b5719 Git-814d7a916 24.12.2020 19:01:46 +0300
+b5725 Git-e8037160d 10.01.2021 09:09:30 +0300
+
+1. Far b5725 Git-e8037160d
+2. AdvCmpEx v3.2.0
+3. Calculator v3.25.0
+4. FarAudioPlayer v3.45.5055.3 SVN r272
+5. c0_ver v3.2.0
+6. MultiArc b200 Git-6c6bd4c76
+7. UnInstall v1.10.21 Git-849e14cfc
+8. VisRen v3.2.0
+9. FarColorer Shemes Git-c9dbe4e4b
+10. CtrlAltMenuDisk v4.1.4
+11. Common_Calculator.lua fix 07.01.2021
+12. Удалены ненужные bass_cdg.dll и calc64.dll.
+13. Update default.farconfig.
+14. Рефакторинг. Обновление требует b5719 и новее.
+
+b5719 Git-814d7a916 25.12.2020 23:02:14 +0300
 
 1. Far b5719 Git-814d7a916
-2. Codecs v19.00 ZS v1.4.8 R1
-3. В readme.txt дабавлен раздел FAQ Фильтры
-4. Рефакторинг. Обновление требует b5716 и новее.
+2. FarAudioPlayer v3.45.5055.0
+3. FarAudioPlayer update: BASSCD v2.4.7.0, BASSDSD v2.4.1.2, BASSFLAC v2.4.4.5,
+   BASSMIDI v2.4.13.0, BASSWV v2.4.7.0
+4. Codecs v19.00 ZS v1.4.8 R1
+5. В readme.txt дабавлен раздел FAQ Фильтры
+6. Рефакторинг. Обновление требует b5716 и новее.
 
 b5718 Git-0bd8484fd 22.12.2020 13:10:03 +0300
 
