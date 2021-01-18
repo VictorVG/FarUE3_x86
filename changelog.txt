@@ -16,6 +16,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5730 Git-e878bac23 18.01.2021 13:11:10 +0300
+
+1. Far b5730 Git-e878bac23
+2. CustomSortByAttributes.lua v2.0.1 Git-37f883744
+3. Рефакторинг. Обновление требует b5730 и новее.
+
 b5730 Git-13d47a573 15.01.2021 17:05:07 +0300
 
 1. Far b5730 Git-13d47a573
