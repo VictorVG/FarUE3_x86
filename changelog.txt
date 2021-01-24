@@ -16,6 +16,19 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5731 Git-1c1bfc5dd 25.01.2021 00:41:34 +0300
+
+1. Far b5731 Git-1c1bfc5dd
+2. AdvCmpEx v3.2.0 fix by DrKnS
+   https://forum.farmanager.com/viewtopic.php?p=164280#p164280
+3. FarAudioPlayer v3.45.5055.4 SVN r285
+4. 7-Zip v21.00 Alpha
+5. far_standards.lua.cfg v1.4.1 for LuaCheck
+6. curl-ca-bundle.crt (Tue Jan 19 04:12:04 2021 GMT)
+7. FarColorer - fix missing
+8. Delete unused bass_fx.dll, bass_vst.dll
+9. Рефакторинг. Обновление требует b5730 и новее.
+
 b5730 Git-e878bac23 18.01.2021 13:11:10 +0300
 
 1. Far b5730 Git-e878bac23
