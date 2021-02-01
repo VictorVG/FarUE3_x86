@@ -16,6 +16,21 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5737 Git-541e7b53f 01.02.2021 14:27:15 +0300
+
+1. Far b5737 Git-541e7b53f include SQLite 3.34.1
+2. AdvCmpEx 3.3.0
+3. Hunspell v3.5.0.4040 SVN r289
+4. ImageView v3.46.9.4362 SVN r289
+5. JClassInfo v3.10.0.4040 SVN r289
+6. MediaInfo v3.15.0.4040 SVN r289
+7. NetBox v2.4.5.534 Git-e36324a37
+8. PEAnalyzer v3.6.4.4040 SVN r289
+9. TextConv v3.9.3.4040 SVN r289
+10. TorrentInfo v3.9.2.4040 SVN r289
+11. Colorer Shemes Git-2716695dc
+12. Рефакторинг. Обновление требует b5730 и новее.
+
 b5731 Git-95e65b668 25.01.2021 05:48:20 +0300
 
 1. Far b5731 Git-95e65b668 and update SQLite up to v3.34.1
