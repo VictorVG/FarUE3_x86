@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5740 Git-c4fe9ab36 06.02.2021 01:17:09 +0300
+
+1. Far b5740 Git-c4fe9ab36
+2. AdvCmpEx 3.4.0
+3. MultiArc 1.75.200.0 Git-02195bc22
+4. cURL 7.75.0
+5. FarMenu - https://curl.se/ca/cacert.pem
+6. Рефакторинг. Обновление требует b5739 и новее.
+
 b5737 Git-541e7b53f 01.02.2021 14:27:15 +0300
 
 1. Far b5737 Git-541e7b53f include SQLite 3.34.1
