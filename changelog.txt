@@ -16,6 +16,20 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5763 Git-05e47625b 18.03.2021 21:09:37 +0300
+
+1. Far b5763 Git-05e47625b
+2. FarColorer v1.3.2 Git-5d142c5
+3. MediaInfo v3.15.2
+4. 7-Zip v21.01 alpha
+5. Rar v6.1.1.0 Latest
+6. UnRAR.dll v6.1.1.3727
+7. SQLite 3.35.0
+8. FarColorer Shemes Git-c34b5d0
+9. Plugin_VisualCompare.lua v1.9.0 Git-91b20f305
+10. Update gtcln.cmd
+11. Обновление требует b5741 и новее.
+
 b5744 Git-562d647ed 24.02.2021 09:51:55 +0300
 
 1. Far b5744 Git-562d647ed
