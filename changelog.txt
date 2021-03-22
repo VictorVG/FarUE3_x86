@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5767 Git-2aaa5a3d0 22.03.2021 04:40:49 +0300
+
+1. b5767 Git-2aaa5a3d0 include path SQLite up to v3.35.2
+2. NetBox v2.4.5.534 Git-f5fba2d2b
+3. FarColorer shemes Git-1441d66
+4. Рефакторинг. Обновление требует b5763 и новее.
+
 b5763-1 Git-05e47625b 18.03.2021 23:11:30 +0300
 
 1. Far b5763-1 Git-05e47625b SQLite 3.35.2
