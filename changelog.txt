@@ -16,16 +16,30 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5772 Git-257f8352b 01.04.2021 21:46:20 +0300
+
+1. Far b5772 Git-257f8352b
+2. AudioPlayer v3.45.4.5055, DiskMenu v3.13.4.4040, HashCalc v3.5.1.4040,
+   Hexitor v3.12.3.4040, Hunspell v3.5.0.4040, ImageView v3.46.9.4362,
+   JClassInfo v3.10.0.4040, MediaInfo v3.15.2.4040, PEAnalyzer v3.6.4.4040
+   PortaDev v3.14.1.4040, TextConv v3.9.3.4040, TorrentInfo v3.9.2.4040
+   SVN r302 - only revert versions
+3. RESearch 8.75
+4. Review 1.19
+5. cURL 7.76.0
+6. SQLite v3.35.3 added built-in SQL math functions() (GCC 10.2 build)
+7. Рефакторинг. Обновление требует b5771 и новее.
+
 b5772 Git-81d6aebd1 29.03.2021 07:11:30 +0300
 
 1. Far b5772 Git-81d6aebd1
-2. SQLite v3.35.3 added built-in SQL math functions()
+2. SQLite v3.35.3 added built-in SQL math functions() (GCC 9.2 build)
 3. Рефакторинг. Обновление требует b5770 и новее.
 
 b5771 Git-126b27c0b 28.03.2021 20:15:54 +0300
 
 1. Far b5771 Git-126b27c0b
-2. SQLite v3.35.3
+2. SQLite v3.35.3 (GCC 9.2 build)
 3. Рефакторинг. Обновление требует b5770 и новее.
 
 b5770 Git-4d1cb7469 27.03.2021 11:12:03 +0300
