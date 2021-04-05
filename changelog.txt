@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5776 Git-8a1a7c3bb 05.04.2021 17:31:04 +0300
+
+1. Far b5776 Git-8a1a7c3bb
+2. UnRAR.dll v6.1.1.3751 latest
+3. Rar v6.1.1.0 latest
+4. Рефакторинг. Обновление требует b5774 и новее.
+
 b5775 Git-8b94ac98c 04.04.2021 20:34:34 +0300
 
 1. Far b5775 Git-8b94ac98c
