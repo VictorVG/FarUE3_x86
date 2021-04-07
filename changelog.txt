@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5778 Git-cf4c8acac 08.04.2021 01:34:22 +0300
+
+1. Far b5778 Git-cf4c8acac
+2. AudioPlayer 3.45.5.5055
+3. PEAnalyzer 3.7.0.4040
+4. Рефакторинг. Обновление требует b5777 и новее.
+
 b5777 Git-86a6be53a 06.04.2021 20:52:27 +0300
 
 1. Far b5777 Git-86a6be53a
