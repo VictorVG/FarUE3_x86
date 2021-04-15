@@ -16,6 +16,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5781 Git-882a351c9 15.04.2021 16:40:10 +0300
+
+1. Far b5781 Git-882a351c9
+2. Revert Far b5765.1 Git-d60f4686c insofar as algorithm have many color's error.
+3. PEAnalyzer v3.8.0.4040 SVN r306
+4. cURL 7.76.1
+5. curl-ca-bundle.crt at Tue Apr 13 03:12:04 2021 GMT
+6. Refactoring. The Update required b5777 or newer.
+
 b5780 Git-95c315033 13.04.2021 02:14:57 +0300
 
 1. Far b5780 Git-95c315033
