@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5782 Git-41b606b06 19.04.2021 01:03:00 +0300
+
+1. Far b5782 Git-41b606b06
+2. Revert Far b5765.1 Git-d60f4686c insofar as algorithm have many color's error.
+3. Colorer shemes update up to Git-10259c0
+4. Refactoring. The Update required b5777 or newer.
+
 b5781 Git-882a351c9 15.04.2021 16:40:10 +0300
 
 1. Far b5781 Git-882a351c9
