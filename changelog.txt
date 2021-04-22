@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5784 Git-880d0a32b 23.04.2021 01:02:05 +0300
+
+1. Far b5784 Git-880d0a32b update SQLite 3.35.5
+2. Revert Far b5765.1 Git-d60f4686c insofar as algorithm have many color's error.
+3. SQLite 3.35.5
+4. Refactoring. The Update required b5777 or newer.
+
 b5782 Git-41b606b06 19.04.2021 01:03:00 +0300
 
 1. Far b5782 Git-41b606b06
