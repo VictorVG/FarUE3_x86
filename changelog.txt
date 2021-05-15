@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5798 Git-8d82f3f23 14.05.2021 19:21:58 +0300
+
+1. Far b5798 Git-8d82f3f23 patch SQLite 3.35.5
+2. LuaManager v5.1.2
+3. 21.02 ZS v1.4.9 R1 codecs
+3. Missing update eDecoder 1.20.3
+4. Refactoring. The Update required b5785 or newer.
+
 b5797 Git-c2445f42b 09.05.2021 23:33:58 +0300
 
 1. Far b5797 Git-c2445f42b patch SQLite 3.35.5
