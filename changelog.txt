@@ -16,6 +16,26 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5812 Git-1f9cfab58 04.06.2021 23:44:49 +0300
+
+1. Far b5812 Git-1f9cfab58 patch SQLite 3.35.5
+2. Calculator v3.26.0
+3. IntChecker2 v2.8.1 (fix https://github.com/lazyhamster/IntChecker/issues/30)
+4. cURL 7.77.0
+5. Rar 6.2.1.0 Latest
+6. UnRAR.DLL v6.2.1.3796
+7. DBEdit v2.1.7
+8. curl-ca-bundle.crt Tue May 25 03:12:05 2021 GMT
+9. Small clarification of coloring fields input dialogs in account b5788.
+10. Refactoring. The Update required b5798 or newer.
+
+b5802 Git-373c98f78 21.05.2021 13:03:47 +0300
+
+1. Far b5802 Git-373c98f78
+2. Rar 6.2.1.0 Latest
+3. UnRAR.DLL v6.2.1.3796
+4. Refactoring. The Update required b5798 or newer.
+
 b5799 Git-bc97881a6 16.05.2021 23:35:30 +0300
 
 1. Far b5799 Git-bc97881a6 patch SQLite 3.35.5
