@@ -16,6 +16,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5820 Git-956e9deb5 13.06.2021 02:36:33 +0300
+
+1. Far b5820 Git-956e9deb5 patch SQLite 3.35.5
+2. IntChecker2 v2.8.0.70 (Git 64510b5)
+3. Rar 6.2.1.0 Latest
+4. Shell_GetPath.lua - small fix (history header encoding)
+5. Refactoring. The Update required b5817 or newer.
+
 b5816 Git-67d1e6f11 09.06.2021 02:38:04 +0300
 
 1. Far b5816 Git-67d1e6f11 patch SQLite 3.35.5
