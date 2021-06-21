@@ -16,6 +16,17 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5831 Git-c9f33fde6 21.06.2021 08:36:00 +0300
+
+1. Far b5831 Git-c9f33fde6
+2. EditCmpl 4.0.0.0.3 Alpha Git d7027514a
+3. Rename EditCmpl_x64.dll to EditCmpl.dll (only x86-64)
+4. SQLite v3.36.0 include features THREADSAFE FTS3 FTS4 FTS5 GEOPOLY STMTVTAB
+   TEMP_STORE DBSTAT_VTAB JSON1 RTREE COLUMN_METADATA MEMORY_MANAGEMENT
+   SNAPSHOT SORTER_REFERENCES RBU UNLOCK_NOTIFY URI MATH_FUNCTIONS
+5. Shell_Tarball.lua v1.0.3
+6. Refactoring. The Update required b5817 or newer.
+
 b5828 Git-49c31558d 18.06.2021 08:34:28 +0300
 
 1. Far b5828 Git-49c31558d patch SQLite 3.35.5
