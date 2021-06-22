@@ -16,6 +16,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5832 Git-0e9728f00 22.06.2021 09:11:37 +0300
+
+1. Far b5832 Git-0e9728f00
+2. Shell_Tarball.lua v1.0.4
+3. Refactoring. The Update required b5817 or newer.
+
 b5831 Git-c9f33fde6 21.06.2021 08:36:00 +0300
 
 1. Far b5831 Git-c9f33fde6
