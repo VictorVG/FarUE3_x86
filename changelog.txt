@@ -16,6 +16,17 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5849 Git-775633e75 15.07.2021 02:16:58 +0300
+
+1. Far b5849 Git-775633e75
+2. FarSniffer v3.7.0.4040
+3. Polygon v1.4.3.5416
+4. USBDeview v3.02
+5. Shell_CustomSortByAttributes.lua v2.0.1.1
+6. Shell_CustomSortByName.lua v1.1.0.2
+7. Shell_DelBak.lua v1.3 (new script, but some name)
+8. Refactoring. The Update required b5837 or newer.
+
 b5837 Git-f3deffb21 28.06.2021 15:13:48 +0300
 
 1. Far b5837 Git-f3deffb21
