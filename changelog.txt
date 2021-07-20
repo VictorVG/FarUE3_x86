@@ -16,6 +16,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5851 Git-71bbbcc55 20.07.2021 10:42:45 +0300
+
+1. Far b5851 Git-71bbbcc55
+2. AudioPlayer 3.45.6 SVN r315
+3. LuaFAR Search v3.44.3
+4. Refactoring. The Update required b5837 or newer.
+
 b5849 Git-775633e75 15.07.2021 02:16:58 +0300
 
 1. Far b5849 Git-775633e75
