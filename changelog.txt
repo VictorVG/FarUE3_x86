@@ -20,6 +20,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5883 Git-2d720a017 23.08.2021 09:27:27 +0300
+
+1. Far b5883 Git-2d720a017
+2. polygon v1.4.4
+3. Cleanup unused files - only for x86-64
+4. Refactoring. The Update required b5858 or newer.
+
 b5879 Git-afa595f43 18.08.2021 16:40:02 +0300
 
 1. Far b5879 Git-afa595f43
