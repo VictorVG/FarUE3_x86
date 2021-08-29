@@ -20,6 +20,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5884 Git-a1e836794 29.08.2021 03:36:36 +0300
+
+1. Far b5884 Git-a1e836794
+2. ArcLite: 7-Zip ZSTD 21.02 v1.5.0 R1 codecs
+3. Refactoring. The Update required b5858 or newer.
+
 b5883 Git-2d720a017 23.08.2021 09:27:27 +0300
 
 1. Far b5883 Git-2d720a017
