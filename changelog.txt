@@ -20,6 +20,13 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5886 Git-f5f07e312 09.09.2021 14:02:18 +0300
+
+1. Far b5886 Git-f5f07e312
+2. AudioPlayer 3.46.3 SVN r325
+3. MultiArc v1.75.200.0 Git-f5f07e312
+4. Refactoring. The Update required b5883 or newer.
+
 b5886 Git-f97c66bfc 03.09.2021 16:25:17 +0300
 
 1. Far b5886 Git-f97c66bfc
