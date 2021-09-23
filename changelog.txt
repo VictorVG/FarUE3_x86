@@ -20,6 +20,15 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5889 Git-ef5324821 22.09.2021 14:04:24 +0300
+
+1. Far b5889 Git-ef5324821
+2. NetBox 2.4.5.538
+3. Polygon v1.6.0
+4. cURL v7.79.1
+5. Colorer-Shemes v1.2.0 Git f421be3
+6. Refactoring. The Update required b5886 or newer.
+
 b5886 Git-00fdeee21 12.09.2021 07:36:38 +0300
 
 1. Far b5886 Git-00fdeee21
@@ -27,7 +36,7 @@ b5886 Git-00fdeee21 12.09.2021 07:36:38 +0300
 3. Polygon v1.5.0
 4. DNSDataView v1.61
 5. Shell_NormalRen.lua update to Thu 09 Sep, 2021 15:01, hotkey Ctrl+Alt+N
-6. Refactoring. The Update required b5883 or newer
+6. Refactoring. The Update required b5883 or newer.
 
 b5886 Git-f5f07e312 09.09.2021 14:02:18 +0300
 
