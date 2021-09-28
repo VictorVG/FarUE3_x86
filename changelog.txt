@@ -20,6 +20,12 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5891 Git-f4fb2fa11 28.09.2021 11:01:36 +0300
+
+1. Far b5891 Git-f4fb2fa11
+2. NetBox v2.4.5.538 Git-b08c75d86
+3. Refactoring. The Update required b5886 or newer.
+
 b5891 Git-c4fe99347 26.09.2021 16:00:55 +0300
 
 1. Far b5891 Git-c4fe99347
