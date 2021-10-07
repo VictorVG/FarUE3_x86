@@ -20,6 +20,14 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5901 Git-e41f0539e 07.10.2021 15:05:07 +0300
+
+1. Far b5901 Git-e41f0539e
+2. NetBox v2.4.5.539 Git-f5c793e12
+3. 7-Zip 21.03 ZS v1.5.0 R2 Codecs
+4. GNU Wget 1.21.2
+5. Refactoring. The Update required b5897 or newer.
+
 b5897 Git-00b83f845 05.10.2021 02:56:02 +0300
 
 1. Far b5897 Git-00b83f845
