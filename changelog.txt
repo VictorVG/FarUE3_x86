@@ -20,6 +20,11 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5901 Git-6edbccc87 09.10.2021 10:16:07 +0300
+
+1. Far b5901 Git-6edbccc87
+2. Refactoring. The Update required b5897 or newer.
+
 b5901 Git-e41f0539e 07.10.2021 15:05:07 +0300
 
 1. Far b5901 Git-e41f0539e
