@@ -20,6 +20,22 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5904 Git-8501c1655 21.10.2021 04:40:30 +0300
+
+1. Far b5904 Git-8501c1655
+2. Colorer version different v1.4.11 for Win7 or newer, v1.3.30 XP/Vista (x86).
+3. Colorer  v1.4.11 (x64 only, drop XP support)
+4. X.509 SSL certificates at Thu Sep 30 03:12:05 2021 GMT
+5. Refactoring. The Update required b5901 or newer.
+
+b5902 Git-9f16ce93d 15.10.2021 21:52:19 +0300
+
+1. Far b5902 Git-9f16ce93d
+2. Colorer-Shemes Git 0ce9aa4
+3. IntChecker 2.8.0 Git 0f9a07f
+4. PortaDev 3.14.2
+5. Refactoring. The Update required b5901 or newer.
+
 b5901 Git-6edbccc87 09.10.2021 10:16:07 +0300
 
 1. Far b5901 Git-6edbccc87
