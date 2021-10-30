@@ -20,6 +20,20 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5908 Git-d7cfe81a6 30.10.2021 17:11:31 +0300
+
+1. Far b5908 Git-d7cfe81a6
+2. Colorer v1.4.12 for Win7 or newer, v1.3.30 XP/Vista (only x86).
+3. Colorer v1.4.12 (only x86-64)
+4. Colorer-Shemes v1.2.0.16 Git-7a04a31 .
+5. Colorer: move ./base/hrc/auto/* to ./base/auto and delete empty ./base/hrc/
+6. IntChecker2 v2.8.0 Git-a1dcee0
+7. NTFSFile v5.5.8 r328
+8. Delete Editor_ColorerRefresh.lua and Editor_ColorerTypeList.lua
+9. Add Editor_Colorer.lua
+10. Update macro.txt
+11. Refactoring. The Update required b5901 or newer.
+
 b5904 Git-8501c1655 21.10.2021 04:40:30 +0300
 
 1. Far b5904 Git-8501c1655
