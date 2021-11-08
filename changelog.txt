@@ -20,6 +20,27 @@ Far Manager UE3 (Far UE3, FarUE3)
 
 История версий:
 
+b5913 Git-8a984a1d8 08.11.2021 08:37:04 +0300
+
+1. Far b5913 Git-8a984a1d8
+2. Colorer v1.4.13 (x86 only Vista or neewer, x64 Win7 or neewer)
+3. v2.4.5.539 Git-ebc30ef0b
+4. 7-Zip 21.04 BETA
+   Notes: some Zstandard archives lake tar.zst, .tzst not supported!
+5. Rar v6.10.1.0 latest
+6. Legacy x86 and x64 lua5.1.dll (Lua proxy DLL) not used, but saved for users.
+   Notes: this DLL don't install for new or update existing FarUE3 copy!
+7. Refactoring. The Update required b5908 or newer.
+
+b5912 Git-a90c41532 05.11.2021 08:03:39 +0300
+
+1. Far b5912 Git-a90c41532
+2. 7-Zip 21.04 BETA
+   Notes: some Zstandard archives lake tar.zst, .tzst not supported!
+3. Legacy x86 and x64 lua5.1.dll (Lua proxy DLL) not used, but saved for users.
+   Notes: this DLL don't install for new or update existing FarUE3 copy!
+4. Refactoring. The Update required b5908 or newer.
+
 b5910 Git-af4556414 01.11.2021 07:26:50 +0300
 
 1. Far b5910 Git-af4556414
